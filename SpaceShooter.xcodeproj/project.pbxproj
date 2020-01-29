@@ -21,6 +21,8 @@
 		A0105E5A23DEB06D001DB639 /* torpedo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0105E5923DEB06D001DB639 /* torpedo.mp3 */; };
 		A0105E5F23DEB130001DB639 /* Starfield.sks in Resources */ = {isa = PBXBuildFile; fileRef = A0105E5D23DEB130001DB639 /* Starfield.sks */; };
 		A0105E6023DEB130001DB639 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = A0105E5E23DEB130001DB639 /* Explosion.sks */; };
+		A0E20F1623E1460300573F4A /* MainMenu.sks in Resources */ = {isa = PBXBuildFile; fileRef = A0E20F1523E1460300573F4A /* MainMenu.sks */; };
+		A0E20F1A23E1516700573F4A /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E20F1923E1516700573F4A /* MainMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,8 @@
 		A0105E5923DEB06D001DB639 /* torpedo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = torpedo.mp3; path = Assets/torpedo.mp3; sourceTree = SOURCE_ROOT; };
 		A0105E5D23DEB130001DB639 /* Starfield.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Starfield.sks; path = Assets/Starfield.sks; sourceTree = SOURCE_ROOT; };
 		A0105E5E23DEB130001DB639 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Explosion.sks; path = Assets/Explosion.sks; sourceTree = SOURCE_ROOT; };
+		A0E20F1523E1460300573F4A /* MainMenu.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MainMenu.sks; sourceTree = "<group>"; };
+		A0E20F1923E1516700573F4A /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,8 @@
 				A0105E2523DEAEB4001DB639 /* GameScene.sks */,
 				A0105E2723DEAEB4001DB639 /* Actions.sks */,
 				A0105E2923DEAEB4001DB639 /* GameScene.swift */,
+				A0E20F1523E1460300573F4A /* MainMenu.sks */,
+				A0E20F1923E1516700573F4A /* MainMenu.swift */,
 				A0105E2B23DEAEB4001DB639 /* GameViewController.swift */,
 				A0105E2D23DEAEB4001DB639 /* Main.storyboard */,
 				A0105E5923DEB06D001DB639 /* torpedo.mp3 */,
@@ -253,6 +259,7 @@
 				A0105E5A23DEB06D001DB639 /* torpedo.mp3 in Resources */,
 				A0105E5823DEB063001DB639 /* explosion.mp3 in Resources */,
 				A0105E5F23DEB130001DB639 /* Starfield.sks in Resources */,
+				A0E20F1623E1460300573F4A /* MainMenu.sks in Resources */,
 				A0105E2F23DEAEB4001DB639 /* Main.storyboard in Resources */,
 				A0105E2623DEAEB4001DB639 /* GameScene.sks in Resources */,
 				A0105E3123DEAEB5001DB639 /* Assets.xcassets in Resources */,
@@ -286,6 +293,7 @@
 				A0105E2A23DEAEB4001DB639 /* GameScene.swift in Sources */,
 				A0105E2C23DEAEB4001DB639 /* GameViewController.swift in Sources */,
 				A0105E2423DEAEB4001DB639 /* AppDelegate.swift in Sources */,
+				A0E20F1A23E1516700573F4A /* MainMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
